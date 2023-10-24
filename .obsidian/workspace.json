@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "1da3b017b5aa5a76",
+    "type": "split",
+    "children": [
+      {
+        "id": "719a1de28d39149e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44cb33e69ae90fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linux/基础知识.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4c7f217e3d813faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "master/论文阅读.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e45d5d2f10fa2600",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1a84f163acf4f4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6320ceeda8c8168d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0e51bc40d1674f2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac53fde2537c7954",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db24e6b5edee2fb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ca2119a7dc7bf6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b64d549b0be81e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "master/论文阅读.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15c24cd0175f1a0d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "master/论文阅读.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1754b8cae8e5ad69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "098215eb9b02c4ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "master/论文阅读.md"
+              }
+            }
+          },
+          {
+            "id": "380ec9dbd436b4e0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          },
+          {
+            "id": "d8a0545a3328cecc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
+    }
+  },
+  "active": "4c7f217e3d813faf",
+  "lastOpenFiles": [
+    "linux/指令合集.md",
+    "linux/基础知识.md",
+    "linux/fig/Pasted image 20231012111258.png",
+    "linux/习惯.md",
+    "bb/2023 十一 济南.md",
+    "master/论文阅读.md",
+    "未命名.canvas",
+    "未命名/未命名.md",
+    "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
+    "master",
+    "Excalidraw",
+    "linux/fig",
+    "linux/fig/Pasted image 20230915104411.png",
+    "bb/2023-07-30 青岛.md",
+    "linux/fig/Pasted image 20230911201341.png",
+    "linux",
+    "未命名",
+    "bb"
+  ]
+}
