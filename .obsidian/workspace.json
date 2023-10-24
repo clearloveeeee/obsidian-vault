@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/实验方法.md"
+                "file": "master/论文阅读.md"
               }
             }
           },
@@ -167,8 +167,9 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
-    "master/论文阅读.md",
+    "未命名.canvas",
     "master/实验方法.md",
+    "master/论文阅读.md",
     "Pasted image 20231024151039.png",
     "linux/基础知识.md",
     "obsidian-vault",
@@ -176,7 +177,6 @@
     "linux/fig/Pasted image 20231012111258.png",
     "linux/习惯.md",
     "bb/2023 十一 济南.md",
-    "未命名.canvas",
     "未命名/未命名.md",
     "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
     "master",
