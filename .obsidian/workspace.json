@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/实验方法.md"
+                "file": "master/论文阅读.md"
               }
             }
           },
@@ -167,10 +167,10 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "master/实验方法.md",
+    "master/论文阅读.md",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
-    "master/论文阅读.md",
-    "master/实验方法.md",
     "未命名.canvas",
     "linux/基础知识.md",
     "obsidian-vault",
