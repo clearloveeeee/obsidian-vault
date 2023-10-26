@@ -11,14 +11,11 @@
             "id": "fcff9f47c0bab9dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "linux/基础知识.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名.canvas",
+                "file": "linux/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名.canvas",
+                "file": "linux/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas"
+                "file": "linux/基础知识.md"
               }
             }
           },
@@ -170,6 +167,7 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "未命名.canvas",
     "linux/fig/Pasted image 20231026161512.png",
     "linux/基础知识.md",
     "linux/习惯.md",
@@ -177,7 +175,6 @@
     "Pasted image 20231024151039.png",
     "master/论文阅读.md",
     "master/实验方法.md",
-    "未命名.canvas",
     "obsidian-vault",
     "linux/指令合集.md",
     "linux/fig/Pasted image 20231012111258.png",
