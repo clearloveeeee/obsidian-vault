@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"2a5262eeab016af7","type":"text","text":"6 健康受试，6 脑卒中患者","x":-140,"y":-480,"width":340,"height":60},
-		{"id":"bc3b934a6a25765d","x":-96,"y":-334,"width":250,"height":60,"type":"text","text":"心理物理学实验：\n\t"}
+		{"id":"bc3b934a6a25765d","x":-96,"y":-334,"width":250,"height":234,"type":"text","text":"心理物理学实验：\n\t韦伯系数\n\t感知阈值\n\t"}
 	],
 	"edges":[
 		{"id":"59c16080522bb702","fromNode":"2a5262eeab016af7","fromSide":"bottom","toNode":"bc3b934a6a25765d","toSide":"top"}
