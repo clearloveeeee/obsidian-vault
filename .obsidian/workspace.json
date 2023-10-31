@@ -38,14 +38,11 @@
             "id": "274acc54cef85fc9",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 10,
-                  "y": -190,
-                  "zoom": 0
-                }
+                "file": "master/实验方法.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -116,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "master/实验方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "未命名 1.canvas",
+                "file": "master/实验方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名 1.canvas"
+                "file": "master/实验方法.md"
               }
             }
           },
@@ -199,14 +196,14 @@
   },
   "active": "274acc54cef85fc9",
   "lastOpenFiles": [
+    "master/论文阅读.md",
+    "未命名 1.canvas",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
-    "未命名 1.canvas",
     "master/实验方法.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
-    "master/论文阅读.md",
     "linux/指令合集.md",
     "linux/习惯.md",
     "linux/基础知识.md",
