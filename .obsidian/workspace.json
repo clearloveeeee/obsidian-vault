@@ -23,14 +23,21 @@
             "id": "f9c244e66d49ff22",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名 1.canvas",
-                "viewState": {
-                  "x": 10,
-                  "y": -190,
-                  "zoom": 0
-                }
+                "file": "master/实验方法.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03dffe0b81f636ab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md"
               }
             }
           },
@@ -113,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/实验方法.md"
+                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md"
               }
             }
           },
@@ -194,14 +201,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "274acc54cef85fc9",
+  "active": "03dffe0b81f636ab",
   "lastOpenFiles": [
-    "master/论文阅读.md",
-    "未命名 1.canvas",
+    "master/实验方法.md",
+    "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
+    "未命名 1.canvas",
+    "master/论文阅读.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
-    "master/实验方法.md",
     "未命名.canvas",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "linux/指令合集.md",
