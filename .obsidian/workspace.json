@@ -35,9 +35,11 @@
             "id": "03dffe0b81f636ab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md"
+                "file": "linux/指令合集.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
+                "file": "linux/指令合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
+                "file": "linux/指令合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md"
+                "file": "linux/指令合集.md"
               }
             }
           },
@@ -201,12 +203,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "03dffe0b81f636ab",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Pasted Image 20231101104817_789.png",
     "Pasted Image 20231101104746_786.png",
     "master/实验方法.md",
-    "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
     "未命名 1.canvas",
