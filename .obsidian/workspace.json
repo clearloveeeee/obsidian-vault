@@ -23,9 +23,11 @@
             "id": "f9c244e66d49ff22",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md"
+                "file": "linux/指令合集.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,9 +35,11 @@
             "id": "03dffe0b81f636ab",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231024151039.png"
+                "file": "linux/基础知识.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -60,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
+                "file": "linux/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
+                "file": "linux/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md"
+                "file": "linux/基础知识.md"
               }
             }
           },
@@ -207,23 +211,23 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6320ceeda8c8168d",
+  "active": "03dffe0b81f636ab",
   "lastOpenFiles": [
-    "master/实验方法.md",
-    "Pasted image 20231024151039.png",
-    "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
-    "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
+    "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
+    "Pasted image 20231024151039.png",
+    "linux/指令合集.md",
+    "linux/基础知识.md",
+    "linux/习惯.md",
+    "master/实验方法.md",
+    "master/论文阅读.md",
+    "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 14.48.53.excalidraw.md",
     "Pasted Image 20231101104746_786.png",
     "Pasted Image 20231101104817_789.png",
-    "linux/指令合集.md",
     "Pasted image 20231025082625.png",
     "未命名 1.canvas",
-    "master/论文阅读.md",
     "未命名.canvas",
-    "linux/习惯.md",
-    "linux/基础知识.md",
     "linux/fig/Pasted image 20231026161512.png",
     "obsidian-vault",
     "linux/fig/Pasted image 20231012111258.png",
