@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "27ab592aaff6b108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "master/参会/苏州 脑卒中会议.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db24e6b5edee2fb1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/参会/苏州 脑卒中会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/实验方法.md",
+                "file": "master/参会/苏州 脑卒中会议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/实验方法.md"
+                "file": "master/参会/苏州 脑卒中会议.md"
               }
             }
           },
@@ -168,15 +180,17 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fcff9f47c0bab9dc",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
+    "master/实验方法.md",
+    "master/参会/苏州 脑卒中会议.md",
+    "master/参会",
     "linux/指令合集.md",
     "linux/基础知识.md",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Pasted image 20231024151039.png",
     "linux/习惯.md",
-    "master/实验方法.md",
     "master/论文阅读.md",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 14.48.53.excalidraw.md",
