@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "03dffe0b81f636ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "linux/指令合集.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "master/实验方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "master/实验方法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/指令合集.md"
+                "file": "master/实验方法.md"
               }
             }
           },
@@ -181,13 +168,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "03dffe0b81f636ab",
+  "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "linux/指令合集.md",
     "linux/基础知识.md",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Pasted image 20231024151039.png",
-    "linux/指令合集.md",
     "linux/习惯.md",
     "master/实验方法.md",
     "master/论文阅读.md",
