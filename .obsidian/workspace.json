@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "master/参会/苏州 脑卒中会议.md",
+                "file": "master/实验方案.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/参会/苏州 脑卒中会议.md",
+                "file": "master/实验方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/参会/苏州 脑卒中会议.md",
+                "file": "master/实验方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/参会/苏州 脑卒中会议.md"
+                "file": "master/实验方案.md"
               }
             }
           },
@@ -179,11 +179,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6320ceeda8c8168d",
+  "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
-    "master/实验方法.md",
-    "未命名 1.canvas",
     "master/参会/苏州 脑卒中会议.md",
+    "master/实验方案.md",
+    "未命名 1.canvas",
     "master/参会",
     "linux/指令合集.md",
     "linux/基础知识.md",
