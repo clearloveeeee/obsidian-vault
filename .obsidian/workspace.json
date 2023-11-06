@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db24e6b5edee2fb1",
@@ -181,6 +182,8 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "master/~$经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.docx",
+    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.docx",
     "master/参会/苏州 脑卒中会议.md",
     "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "未命名 1.canvas",
