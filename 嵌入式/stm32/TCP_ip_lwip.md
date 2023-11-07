@@ -7,3 +7,4 @@
 2.添加以太网驱动文件
 	打开stm32f4xx_hal_conf.h文件，使能HAL_ETH_MODULE_ENABLED以太网模块
 	添加ETHERNET peripheral configuration 、PHY configuration section、Common PHY Registers、Extended PHY Registers
+### lwip配置
