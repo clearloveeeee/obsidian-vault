@@ -13,3 +13,4 @@
 	src_core->core下除ipv6
 	src_netif->netif路径下ethernet.c文件
 	arch通过ST官方lwIP和正点官方例程
+2. lwipcommon.c设置ip、mac、子网掩码等内容
