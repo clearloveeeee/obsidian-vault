@@ -9,3 +9,7 @@
 	添加ETHERNET peripheral configuration 、PHY configuration section、Common PHY Registers、Extended PHY Registers
 ### lwip配置
 1.添加lwip src文件
+	src_api->api
+	src_core->core下除ipv6
+	src_netif->netif路径下ethernet.c文件
+	arch通过ST官方lwIP和正点官方例程
