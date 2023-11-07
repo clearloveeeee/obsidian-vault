@@ -11,9 +11,11 @@
             "id": "fcff9f47c0bab9dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20231101104746_786.png"
+                "file": "嵌入式/stm32/TCP_ip_lwip.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20231101104746_786.png",
+                "file": "嵌入式/stm32/TCP_ip_lwip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20231101104746_786.png",
+                "file": "嵌入式/stm32/TCP_ip_lwip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20231101104746_786.png"
+                "file": "嵌入式/stm32/TCP_ip_lwip.md"
               }
             }
           },
@@ -167,9 +169,10 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "嵌入式/stm32",
+    "Pasted Image 20231101104746_786.png",
     "Pasted Image 20231101104817_789.png",
     "Pasted image 20231024151039.png",
-    "Pasted Image 20231101104746_786.png",
     "Pasted image 20231025082625.png",
     "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "master/论文阅读.md",
@@ -190,7 +193,7 @@
     "obsidian-vault",
     "linux/fig/Pasted image 20231012111258.png",
     "bb/2023 十一 济南.md",
-    "未命名/未命名.md",
+    "嵌入式/stm32/TCP_ip_lwip.md",
     "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
     "master",
     "Excalidraw",
@@ -199,7 +202,7 @@
     "bb/2023-07-30 青岛.md",
     "linux/fig/Pasted image 20230911201341.png",
     "linux",
-    "未命名",
+    "嵌入式",
     "bb"
   ]
 }
