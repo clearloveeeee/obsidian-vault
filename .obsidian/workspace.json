@@ -11,11 +11,9 @@
             "id": "fcff9f47c0bab9dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "嵌入式/stm32/TCP_ip_lwip.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted Image 20231101104746_786.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "嵌入式/stm32/TCP_ip_lwip.md",
+                "file": "Pasted Image 20231101104746_786.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "嵌入式/stm32/TCP_ip_lwip.md",
+                "file": "Pasted Image 20231101104746_786.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "嵌入式/stm32/TCP_ip_lwip.md"
+                "file": "Pasted Image 20231101104746_786.png"
               }
             }
           },
@@ -169,6 +167,7 @@
   },
   "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
+    "嵌入式/stm32/TCP_ip_lwip.md",
     "嵌入式/stm32",
     "Pasted Image 20231101104746_786.png",
     "Pasted Image 20231101104817_789.png",
@@ -193,7 +192,6 @@
     "obsidian-vault",
     "linux/fig/Pasted image 20231012111258.png",
     "bb/2023 十一 济南.md",
-    "嵌入式/stm32/TCP_ip_lwip.md",
     "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
     "master",
     "Excalidraw",
@@ -202,7 +200,6 @@
     "bb/2023-07-30 青岛.md",
     "linux/fig/Pasted image 20230911201341.png",
     "linux",
-    "嵌入式",
-    "bb"
+    "嵌入式"
   ]
 }
