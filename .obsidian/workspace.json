@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/指令合集.md"
+                "file": "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md"
               }
             }
           },
@@ -167,11 +167,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fcff9f47c0bab9dc",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
+    "master/论文阅读.md",
+    "linux/指令合集.md",
     "linux/习惯.md",
     "linux/基础知识.md",
-    "linux/指令合集.md",
     "Pasted Image 20231101104746_786.png",
     "嵌入式/stm32/TCP_ip_lwip.md",
     "嵌入式/stm32",
@@ -179,7 +180,6 @@
     "Pasted image 20231024151039.png",
     "Pasted image 20231025082625.png",
     "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
-    "master/论文阅读.md",
     "master/参会/苏州 脑卒中会议.md",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
