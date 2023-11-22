@@ -11,9 +11,11 @@
             "id": "fcff9f47c0bab9dc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20231101104817_789.png"
+                "file": "master/论文阅读.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted Image 20231101104817_789.png",
+                "file": "master/论文阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted Image 20231101104817_789.png",
+                "file": "master/论文阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted Image 20231101104817_789.png"
+                "file": "master/论文阅读.md"
               }
             }
           },
@@ -165,15 +167,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6320ceeda8c8168d",
+  "active": "fcff9f47c0bab9dc",
   "lastOpenFiles": [
-    "Pasted Image 20231101104746_786.png",
+    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "Pasted Image 20231101104817_789.png",
+    "Pasted Image 20231101104746_786.png",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
     "master/参会/苏州 脑卒中会议.md",
     "master/论文阅读.md",
-    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "linux/指令合集.md",
     "linux/习惯.md",
     "linux/基础知识.md",
