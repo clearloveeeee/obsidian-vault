@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3fbc2e4e1ac79cd4",
+        "id": "3d6bc6f4509f8716",
         "type": "tabs",
         "children": [
           {
-            "id": "fcff9f47c0bab9dc",
+            "id": "6c7e74c61ef288c7",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -165,19 +159,21 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6320ceeda8c8168d",
+  "active": "6c7e74c61ef288c7",
   "lastOpenFiles": [
+    "master/参会/虹桥脑机接口/IMG_20231125_142615.jpg",
+    "master/参会/虹桥脑机接口/谢平 多模态/IMG_20231125_142542.jpg",
+    "master/参会/虹桥脑机接口/谢平 多模态/IMG_20231125_142615.jpg",
+    "master/参会/虹桥脑机接口/谢平 多模态/IMG_20231125_142713.jpg",
+    "master/参会/虹桥脑机接口/谢平 多模态/IMG_20231125_142808.jpg",
+    "master/参会/虹桥脑机接口/谢平 多模态",
+    "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143424.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143341.jpg",
     "master/参会/上海虹桥脑机接口康复论坛.md",
     "master/参会/虹桥脑机接口/IMG_20231125_142900.jpg",
     "master/参会/虹桥脑机接口/IMG_20231125_142939.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_143341.jpg",
     "master/参会/虹桥脑机接口/IMG_20231125_143418.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_143424.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_143452.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_142126.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_142246.jpg",
-    "master/参会/虹桥脑机接口/IMG_20231125_142412.jpg",
     "master/参会/虹桥脑机接口",
     "master/参会/新建文件夹",
     "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
@@ -202,7 +198,6 @@
     "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
     "master",
     "Excalidraw",
-    "linux/fig",
     "bb/2023-07-30 青岛.md"
   ]
 }
