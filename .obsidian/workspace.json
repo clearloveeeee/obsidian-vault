@@ -11,11 +11,9 @@
             "id": "fcff9f47c0bab9dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
-                "mode": "source",
-                "source": false
+                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
+                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
+                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md"
+                "file": "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg"
               }
             }
           },
@@ -167,15 +165,23 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fcff9f47c0bab9dc",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
-    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "master/参会/上海虹桥脑机接口康复论坛.md",
+    "master/参会/虹桥脑机接口/IMG_20231125_142900.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_142939.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143341.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143418.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143424.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_143452.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_142126.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_142240.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_142246.jpg",
+    "master/参会/虹桥脑机接口/IMG_20231125_142412.jpg",
+    "master/参会/虹桥脑机接口",
+    "master/参会/新建文件夹",
+    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "master/论文阅读.md",
-    "Pasted Image 20231101104817_789.png",
-    "Pasted Image 20231101104746_786.png",
-    "Pasted image 20231025082625.png",
-    "Pasted image 20231024151039.png",
     "master/参会/苏州 脑卒中会议.md",
     "linux/指令合集.md",
     "linux/习惯.md",
@@ -191,18 +197,12 @@
     "master/参会",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "未命名.canvas",
-    "linux/fig/Pasted image 20231026161512.png",
     "obsidian-vault",
-    "linux/fig/Pasted image 20231012111258.png",
     "bb/2023 十一 济南.md",
     "Excalidraw/Drawing 2023-09-21 21.07.51.excalidraw.md",
     "master",
     "Excalidraw",
     "linux/fig",
-    "linux/fig/Pasted image 20230915104411.png",
-    "bb/2023-07-30 青岛.md",
-    "linux/fig/Pasted image 20230911201341.png",
-    "linux",
-    "嵌入式"
+    "bb/2023-07-30 青岛.md"
   ]
 }
