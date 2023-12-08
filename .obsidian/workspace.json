@@ -11,15 +11,26 @@
             "id": "6c7e74c61ef288c7",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20231101104817_789.png"
+              }
+            }
+          },
+          {
+            "id": "5b882da160af29b3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
+                "file": "deep learning/定义.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
+                "file": "deep learning/定义.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md",
+                "file": "deep learning/定义.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "master/参会/上海虹桥脑机接口康复论坛.md"
+                "file": "deep learning/定义.md"
               }
             }
           },
@@ -166,8 +177,14 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6c7e74c61ef288c7",
+  "active": "5b882da160af29b3",
   "lastOpenFiles": [
+    "Pasted Image 20231101104817_789.png",
+    "deep learning/定义.md",
+    "deep learning",
+    "Pasted image 20231025082625.png",
+    "Pasted image 20231024151039.png",
+    "master/参会/上海虹桥脑机接口康复论坛.md",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152315.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152312.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152251.jpg",
@@ -176,12 +193,8 @@
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152539.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129153040.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152238.jpg",
-    "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152221.jpg",
-    "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152216.jpg",
-    "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152218.jpg",
     "master/参会/虹桥脑机接口/单春雷",
     "master/参会/虹桥脑机接口/新建文件夹",
-    "master/参会/上海虹桥脑机接口康复论坛.md",
     "master/参会/苏州 脑卒中会议.md",
     "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.md",
     "master/参会/虹桥脑机接口/宁晓琳 脑磁",
@@ -199,7 +212,6 @@
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 14.48.53.excalidraw.md",
     "master/~$经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.docx",
-    "master/研究经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.docx",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "未命名.canvas",
