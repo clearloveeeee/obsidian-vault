@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "deep learning/定义.md",
+                "file": "linux/基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db24e6b5edee2fb1",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "deep learning/定义.md",
+                "file": "linux/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "deep learning/定义.md",
+                "file": "linux/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "deep learning/定义.md"
+                "file": "linux/基础知识.md"
               }
             }
           },
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,10 +179,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5b882da160af29b3",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
-    "Pasted Image 20231101104817_789.png",
+    "linux/习惯.md",
+    "linux/基础知识.md",
+    "linux/指令合集.md",
     "deep learning/定义.md",
+    "Pasted Image 20231101104817_789.png",
     "deep learning",
     "Pasted image 20231025082625.png",
     "Pasted image 20231024151039.png",
@@ -192,7 +197,6 @@
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152248.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152539.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129153040.jpg",
-    "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152238.jpg",
     "master/参会/虹桥脑机接口/单春雷",
     "master/参会/虹桥脑机接口/新建文件夹",
     "master/参会/苏州 脑卒中会议.md",
@@ -203,9 +207,6 @@
     "master/参会/虹桥脑机接口",
     "master/参会/新建文件夹",
     "master/论文阅读.md",
-    "linux/指令合集.md",
-    "linux/习惯.md",
-    "linux/基础知识.md",
     "嵌入式/stm32/TCP_ip_lwip.md",
     "嵌入式/stm32",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
