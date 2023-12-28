@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "87023ded3be75835",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "db24e6b5edee2fb1",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/基础知识.md"
+                "file": "linux/指令合集.md"
               }
             }
           },
@@ -181,12 +169,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "87023ded3be75835",
+  "active": "5b882da160af29b3",
   "lastOpenFiles": [
-    "Pasted image 20231222180933.png",
-    "Pasted Image 20231101104817_789.png",
     "linux/习惯.md",
     "linux/基础知识.md",
+    "Pasted image 20231222180933.png",
+    "Pasted Image 20231101104817_789.png",
     "linux/指令合集.md",
     "deep learning/定义.md",
     "deep learning",
@@ -199,7 +187,6 @@
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152246.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152248.jpg",
     "master/参会/虹桥脑机接口/单春雷/微信图片_20231129152539.jpg",
-    "master/参会/虹桥脑机接口/单春雷/微信图片_20231129153040.jpg",
     "master/参会/虹桥脑机接口/单春雷",
     "master/参会/虹桥脑机接口/新建文件夹",
     "master/参会/苏州 脑卒中会议.md",
