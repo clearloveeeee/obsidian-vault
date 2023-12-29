@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/指令合集.md"
+                "file": "linux/基础知识.md"
               }
             }
           },
@@ -171,8 +171,8 @@
   },
   "active": "5b882da160af29b3",
   "lastOpenFiles": [
-    "linux/基础知识.md",
     "linux/指令合集.md",
+    "linux/基础知识.md",
     "linux/习惯.md",
     "Pasted image 20231222180933.png",
     "Pasted Image 20231101104817_789.png",
