@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7165419143a26179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "苏新立/病情.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "苏新立/病情.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "苏新立/病情.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/基础知识.md"
+                "file": "苏新立/病情.md"
               }
             }
           },
@@ -169,10 +182,12 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "5b882da160af29b3",
+  "active": "7165419143a26179",
   "lastOpenFiles": [
-    "linux/指令合集.md",
     "linux/基础知识.md",
+    "苏新立/病情.md",
+    "苏新立",
+    "linux/指令合集.md",
     "linux/习惯.md",
     "Pasted image 20231222180933.png",
     "Pasted Image 20231101104817_789.png",
@@ -202,7 +217,6 @@
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 14.48.53.excalidraw.md",
-    "master/~$经皮电刺激引起的触觉受损的脑卒中患者的诱发触觉实验方案.docx",
     "未命名 1.canvas",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "未命名.canvas",
