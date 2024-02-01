@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "苏新立/病情.md",
+                "file": "苏新立/患者情况.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "苏新立/病情.md",
+                "file": "苏新立/患者情况.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "苏新立/病情.md",
+                "file": "苏新立/患者情况.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "苏新立/病情.md"
+                "file": "苏新立/患者情况.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -183,24 +183,24 @@
   },
   "active": "7165419143a26179",
   "lastOpenFiles": [
-    "139b003f942f6ee44032263f49f3040.jpg",
-    "226cc2c4c5898a72695f62070ce4ac0.jpg",
-    "35046b436014c37b914ff2ebc2ed4c2.jpg",
-    "8ec4a2bad775cb5149e2b9007ee2eaa.jpg",
-    "444cbfbf7c7a4d34a28fa0bf26042fc.jpg",
-    "cacc29716131f2d75bab80dd995a3be.jpg",
-    "1bc2591ad16b717b46af550cb766905.jpg",
-    "9bbd2f6d75806facf2b44e5f3a362a6.jpg",
+    "ede3a74ab31842e9516f3aa966eb91a 1.jpg",
+    "ede3a74ab31842e9516f3aa966eb91a.jpg",
+    "05ea9e4b30b3f1667210e2edd3282d7.jpg",
+    "fb85adfd021f0a892dcb6ff33ad2b90.jpg",
+    "38957bea66a4e0c62f21f94ccf0ed55.jpg",
+    "a4ee834bee529706edf51b1eed0569d.jpg",
+    "3ed04e961aceba847ffb55f36c929c2.jpg",
+    "f2066b5ec81437f542c1bee30305849 3.jpg",
+    "f2066b5ec81437f542c1bee30305849 2.jpg",
+    "f2066b5ec81437f542c1bee30305849 1.jpg",
+    "f2066b5ec81437f542c1bee30305849.jpg",
     "linux/基础知识.md",
-    "苏新立/病情.md",
+    "苏新立/患者情况.md",
     "苏新立",
     "linux/指令合集.md",
     "linux/习惯.md",
-    "Pasted image 20231222180933.png",
-    "Pasted Image 20231101104817_789.png",
     "deep learning/定义.md",
     "deep learning",
-    "Pasted image 20231025082625.png",
     "master/参会/上海虹桥脑机接口康复论坛.md",
     "master/参会/虹桥脑机接口/单春雷",
     "master/参会/虹桥脑机接口/新建文件夹",
