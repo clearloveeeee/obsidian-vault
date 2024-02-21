@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/指令合集.md",
+                "file": "linux/基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/指令合集.md"
+                "file": "linux/基础知识.md"
               }
             }
           },
@@ -183,12 +183,12 @@
   },
   "active": "7165419143a26179",
   "lastOpenFiles": [
+    "linux/指令合集.md",
     "linux/习惯.md",
     "linux/基础知识.md",
     "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/2022_最新C++开发学习路线_科班版.md",
     "c++/2022_最新C++开发学习路线_极限找工作版.md",
-    "linux/指令合集.md",
     "c++",
     "苏新立/0aed0b20a6e522ddd6bd1c2a011882b.jpg",
     "苏新立/患者情况.md",
