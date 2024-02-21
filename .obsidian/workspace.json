@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "苏新立/患者情况.md",
+                "file": "linux/指令合集.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "苏新立/患者情况.md",
+                "file": "linux/指令合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "苏新立/患者情况.md",
+                "file": "linux/指令合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "苏新立/患者情况.md"
+                "file": "linux/指令合集.md"
               }
             }
           },
@@ -183,22 +183,25 @@
   },
   "active": "7165419143a26179",
   "lastOpenFiles": [
-    "7645ffd28fccf6f5e624058905827bc.jpg",
-    "8013a803af88fdfd216072ba9c83308.jpg",
-    "0aed0b20a6e522ddd6bd1c2a011882b.jpg",
-    "b282ae305025c94f469e7bb3017aa78.jpg",
-    "ede3a74ab31842e9516f3aa966eb91a 1.jpg",
-    "ede3a74ab31842e9516f3aa966eb91a.jpg",
-    "05ea9e4b30b3f1667210e2edd3282d7.jpg",
-    "fb85adfd021f0a892dcb6ff33ad2b90.jpg",
-    "38957bea66a4e0c62f21f94ccf0ed55.jpg",
-    "a4ee834bee529706edf51b1eed0569d.jpg",
-    "3ed04e961aceba847ffb55f36c929c2.jpg",
-    "linux/基础知识.md",
-    "苏新立/患者情况.md",
-    "苏新立",
-    "linux/指令合集.md",
     "linux/习惯.md",
+    "linux/基础知识.md",
+    "c++/2022_最新C++开发学习路线_视频版.md",
+    "c++/2022_最新C++开发学习路线_科班版.md",
+    "c++/2022_最新C++开发学习路线_极限找工作版.md",
+    "linux/指令合集.md",
+    "c++",
+    "苏新立/0aed0b20a6e522ddd6bd1c2a011882b.jpg",
+    "苏新立/患者情况.md",
+    "苏新立/7645ffd28fccf6f5e624058905827bc.jpg",
+    "苏新立/8013a803af88fdfd216072ba9c83308.jpg",
+    "苏新立/b282ae305025c94f469e7bb3017aa78.jpg",
+    "苏新立/ede3a74ab31842e9516f3aa966eb91a 1.jpg",
+    "苏新立/ede3a74ab31842e9516f3aa966eb91a.jpg",
+    "苏新立/05ea9e4b30b3f1667210e2edd3282d7.jpg",
+    "苏新立/fb85adfd021f0a892dcb6ff33ad2b90.jpg",
+    "苏新立/38957bea66a4e0c62f21f94ccf0ed55.jpg",
+    "苏新立/a4ee834bee529706edf51b1eed0569d.jpg",
+    "苏新立",
     "deep learning/定义.md",
     "deep learning",
     "master/参会/上海虹桥脑机接口康复论坛.md",
@@ -213,11 +216,10 @@
     "master/参会/新建文件夹",
     "master/论文阅读.md",
     "嵌入式/stm32/TCP_ip_lwip.md",
-    "嵌入式/stm32",
     "Excalidraw/Drawing 2023-11-01 09.32.51.excalidraw.md",
     "Excalidraw/Drawing 2023-10-30 19.43.14.excalidraw.md",
     "Excalidraw/Drawing 2023-11-02 14.48.53.excalidraw.md",
-    "未命名 1.canvas",
+    "苏新立/未命名 1.canvas",
     "Excalidraw/Drawing 2023-10-30 19.40.25.excalidraw.md",
     "未命名.canvas",
     "bb/2023 十一 济南.md",
