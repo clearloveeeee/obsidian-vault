@@ -23,11 +23,9 @@
             "id": "7165419143a26179",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "linux/基础知识.md",
-                "mode": "source",
-                "source": false
+                "file": "linux/fig/Pasted image 20240222143433.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/fig/Pasted image 20240222143433.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/fig/Pasted image 20240222143433.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/基础知识.md"
+                "file": "linux/fig/Pasted image 20240222143433.png"
               }
             }
           },
@@ -181,11 +179,13 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7165419143a26179",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
-    "linux/指令合集.md",
-    "linux/习惯.md",
     "linux/基础知识.md",
+    "linux/fig/Pasted image 20240222143433.png",
+    "linux/习惯.md",
+    "linux/fig/Pasted image 20240222143421.png",
+    "linux/指令合集.md",
     "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/2022_最新C++开发学习路线_科班版.md",
     "c++/2022_最新C++开发学习路线_极限找工作版.md",
@@ -199,8 +199,6 @@
     "苏新立/ede3a74ab31842e9516f3aa966eb91a.jpg",
     "苏新立/05ea9e4b30b3f1667210e2edd3282d7.jpg",
     "苏新立/fb85adfd021f0a892dcb6ff33ad2b90.jpg",
-    "苏新立/38957bea66a4e0c62f21f94ccf0ed55.jpg",
-    "苏新立/a4ee834bee529706edf51b1eed0569d.jpg",
     "苏新立",
     "deep learning/定义.md",
     "deep learning",
