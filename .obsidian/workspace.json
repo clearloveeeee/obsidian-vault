@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "linux/基础知识.md",
+                "file": "linux/指令合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "linux/基础知识.md"
+                "file": "linux/指令合集.md"
               }
             }
           },
@@ -181,10 +181,10 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "6320ceeda8c8168d",
+  "active": "7165419143a26179",
   "lastOpenFiles": [
-    "linux/fig/Pasted image 20240222143433.png",
     "linux/基础知识.md",
+    "linux/fig/Pasted image 20240222143433.png",
     "linux/习惯.md",
     "linux/fig/Pasted image 20240222143421.png",
     "linux/指令合集.md",
