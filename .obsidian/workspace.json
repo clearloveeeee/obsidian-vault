@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3765c023e5e6284d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,7 +191,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7165419143a26179",
+  "active": "3765c023e5e6284d",
   "lastOpenFiles": [
     "linux/指令合集.md",
     "c++/工作八股.md",
