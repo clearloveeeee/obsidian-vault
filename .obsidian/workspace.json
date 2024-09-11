@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,9 +171,9 @@
   },
   "active": "7165419143a26179",
   "lastOpenFiles": [
+    "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/2022_最新C++开发学习路线_极限找工作版.md",
     "c++/2022_最新C++开发学习路线_科班版.md",
-    "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/工作八股.md",
     "Pasted image 20240910191726.png",
     "linux/指令合集.md",
