@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,7 +169,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "098215eb9b02c4ad",
+  "active": "7165419143a26179",
   "lastOpenFiles": [
     "Pasted image 20240911193129.png",
     "c++/2022_最新C++开发学习路线_视频版.md",
