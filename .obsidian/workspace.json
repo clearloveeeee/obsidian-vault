@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "工作八股"
             }
-          },
-          {
-            "id": "a52cbe9c72f42d0e",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,7 +189,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "a52cbe9c72f42d0e",
+  "active": "7165419143a26179",
   "lastOpenFiles": [
     "Pasted image 20240911193129.png",
     "c++/2022_最新C++开发学习路线_视频版.md",
