@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++/工作八股.md",
+                "file": "c++/面试流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "工作八股"
+              "title": "面试流程"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c++/工作八股.md"
+                "file": "c++/面试流程.md"
               },
               "icon": "lucide-list",
-              "title": "工作八股 的大纲"
+              "title": "面试流程 的大纲"
             }
           },
           {
@@ -188,14 +188,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "7165419143a26179",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
+    "c++/工作八股.md",
+    "c++/面试流程.md",
     "Pasted image 20241029153246.png",
     "Pasted image 20241029153219.png",
     "Pasted image 20240910191726.png",
     "Pasted image 20240911193129.png",
     "Pasted image 20241029153006.png",
-    "c++/工作八股.md",
     "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/2022_最新C++开发学习路线_极限找工作版.md",
     "c++/2022_最新C++开发学习路线_科班版.md",
@@ -209,7 +210,6 @@
     "苏新立/患者情况.md",
     "苏新立/7645ffd28fccf6f5e624058905827bc.jpg",
     "苏新立/8013a803af88fdfd216072ba9c83308.jpg",
-    "苏新立/b282ae305025c94f469e7bb3017aa78.jpg",
     "苏新立",
     "deep learning/定义.md",
     "deep learning",
