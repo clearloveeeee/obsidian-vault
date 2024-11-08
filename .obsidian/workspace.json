@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "面试流程"
             }
-          },
-          {
-            "id": "1c6e1ac656968a52",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,18 +189,18 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "1c6e1ac656968a52",
+  "active": "6320ceeda8c8168d",
   "lastOpenFiles": [
     "c++/工作八股.md",
+    "c++/2022_最新C++开发学习路线_科班版.md",
+    "c++/2022_最新C++开发学习路线_极限找工作版.md",
+    "c++/2022_最新C++开发学习路线_视频版.md",
     "c++/面试流程.md",
     "Pasted image 20241029153246.png",
     "Pasted image 20241029153219.png",
     "Pasted image 20240910191726.png",
     "Pasted image 20240911193129.png",
     "Pasted image 20241029153006.png",
-    "c++/2022_最新C++开发学习路线_视频版.md",
-    "c++/2022_最新C++开发学习路线_极限找工作版.md",
-    "c++/2022_最新C++开发学习路线_科班版.md",
     "linux/指令合集.md",
     "linux/基础知识.md",
     "linux/fig/Pasted image 20240222143433.png",
