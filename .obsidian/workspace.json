@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "12a4c79f8e0054b2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
             "id": "75f6a09569c3c4f1",
             "type": "leaf",
             "state": {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "fc1adb3b78c3bdad",
+  "active": "12a4c79f8e0054b2",
   "lastOpenFiles": [
     "c++/工作八股.md",
     "南自轨道.md",
