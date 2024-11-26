@@ -61,8 +61,7 @@
               "title": "面试流程"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,7 +229,7 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "12a4c79f8e0054b2",
+  "active": "7165419143a26179",
   "lastOpenFiles": [
     "c++/工作八股.md",
     "南自轨道.md",
