@@ -53,12 +53,14 @@
             "id": "12a4c79f8e0054b2",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.7.7"
+                "file": "代码学习/代码规范.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
+              "title": "代码规范"
             }
           },
           {
@@ -67,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c++/面试流程.md",
+                "file": "代码学习/代码规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "面试流程"
+              "title": "代码规范"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -244,15 +246,15 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "ae3ff5eea4f8101c",
+  "active": "75f6a09569c3c4f1",
   "lastOpenFiles": [
+    "c++/面试流程.md",
+    "代码学习/代码规范.md",
     "Pasted image 20250330211155.png",
     "Pasted image 20250330205826.png",
     "南自轨道.md",
-    "代码学习/代码规范.md",
     "代码学习",
     "c++/工作八股.md",
-    "c++/面试流程.md",
     "c++/2022_最新C++开发学习路线_科班版.md",
     "c++/2022_最新C++开发学习路线_极限找工作版.md",
     "c++/2022_最新C++开发学习路线_视频版.md",
@@ -269,7 +271,6 @@
     "c++",
     "苏新立/0aed0b20a6e522ddd6bd1c2a011882b.jpg",
     "苏新立/患者情况.md",
-    "苏新立/7645ffd28fccf6f5e624058905827bc.jpg",
     "苏新立",
     "deep learning/定义.md",
     "deep learning",
