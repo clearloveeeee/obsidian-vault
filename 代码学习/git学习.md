@@ -26,5 +26,7 @@ git add 添加到暂存区
 git rm 删除文件
 git mv 移动/重命名
 ## 查看状态
+git diff 查看差异
+	--name-status 只看文件列表
 
 
