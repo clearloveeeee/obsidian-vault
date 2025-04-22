@@ -25,5 +25,6 @@ git clone 远端服务器拉取
 git add 添加到暂存区
 git rm 删除文件
 git mv 移动/重命名
+## 查看状态
 
 
