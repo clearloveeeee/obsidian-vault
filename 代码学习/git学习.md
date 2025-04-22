@@ -31,6 +31,10 @@ git diff 查看差异
 git status 查看工作目录和暂存区状态
 git branch 
 	-r 查看远端服务器分支
+git checkout 
+	均可用于新建分支
+	git branch 新建分支后并不会切换
+	git checkout -b 新建分支后会自动切换
 	
 ## 提交
 git commit 提交到本地
