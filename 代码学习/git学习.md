@@ -28,5 +28,6 @@ git mv 移动/重命名
 ## 查看状态
 git diff 查看差异
 	--name-status 只看文件列表
+git status 查看工作目录和暂存区状态
 
 
