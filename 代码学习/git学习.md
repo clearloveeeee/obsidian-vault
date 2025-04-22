@@ -29,6 +29,9 @@ git mv 移动/重命名
 git diff 查看差异
 	--name-status 只看文件列表
 git status 查看工作目录和暂存区状态
+git branch 
+	-r 查看远端服务器分支
+	
 ## 提交
 git commit 提交到本地
 	-m 后接备注
