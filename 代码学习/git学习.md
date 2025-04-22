@@ -17,5 +17,6 @@ diff查看区别，patch逆操作
 # git命令
 ## 工程准备
 git init 新建仓库
+git clone 远端服务器拉取
 
 
