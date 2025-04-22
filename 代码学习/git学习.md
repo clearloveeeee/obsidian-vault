@@ -31,6 +31,6 @@ git diff 查看差异
 git status 查看工作目录和暂存区状态
 ## 提交
 git commit 提交到本地
-	-am 后接备注
+	-m 后接备注
 
 
