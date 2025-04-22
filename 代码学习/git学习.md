@@ -46,7 +46,14 @@ git log
 	-p
 	--pretty
 	--graph
-## 推送远端仓库
+## 推送/拉取远端仓库
 git push origin branch_name:new_branch_name
 git push origin branch_name
+git pull origin remote_branch:local_branch
+从远端服务器获取某个分支的更新，再与本地指定的进行自动合并
+
+
+
+
+
 避免大小写更换名称
