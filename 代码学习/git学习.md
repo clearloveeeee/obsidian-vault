@@ -34,4 +34,8 @@ git commit 提交到本地
 	-m 后接备注
 ## 日志
 
-
+git log 
+	name-status
+	-p
+	--pretty
+	--graph
