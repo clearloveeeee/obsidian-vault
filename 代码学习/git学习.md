@@ -57,9 +57,8 @@ git merge branch_name 是用于从指定的分支合并到当前分支的操作
 git rebase 用于合并目标分支内容到当前分支
 git rebase 和 git merge 都可用于分支合并
 
-
-
-
+## 撤销
+git reset 撤销工作区中的git add/commit 操作，退回历史提交节点
 
 
 
