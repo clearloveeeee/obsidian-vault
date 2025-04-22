@@ -18,5 +18,8 @@ diff查看区别，patch逆操作
 ## 工程准备
 git init 新建仓库
 git clone 远端服务器拉取
+	注意权限
+	通过url下载
+	git lfs clone 下载二进制文件
 
 
