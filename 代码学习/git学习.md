@@ -53,6 +53,8 @@ git pull origin remote_branch:local_branch
 从远端服务器获取某个分支的更新，再与本地指定的进行自动合并
 git fetch 
 从远端服务器中获取某个分支的更新到本地，并不会进行合并操作，fetch 内容符合预期后，再决定是否手动合并
+git merge branch_name 是用于从指定的分支合并到当前分支的操作
+
 
 
 
