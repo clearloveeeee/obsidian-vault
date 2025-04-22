@@ -39,3 +39,7 @@ git log
 	-p
 	--pretty
 	--graph
+## 推送远端仓库
+git push origin branch_name:new_branch_name
+git push origin branch_name
+避免大小写更换名称
