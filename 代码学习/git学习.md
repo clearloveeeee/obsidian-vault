@@ -61,7 +61,7 @@ git rebase 和 git merge 都可用于分支合并
 git reset 撤销工作区中的git add/commit 操作，退回历史提交节点
 git checkout . 回退所有修改未提交文件内容  谨慎慎用
 git checkout -filename 撤销某个文件
-
+git reflog  查看最近操作
 ## 基本提交推送
 
 
