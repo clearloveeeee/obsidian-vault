@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "代码学习/git学习.md",
+                "file": "代码学习/测试流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git学习"
+              "title": "测试流程"
             }
           }
         ],
@@ -149,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "db24e6b5edee2fb1",
@@ -211,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码学习/git学习.md",
+                "file": "代码学习/测试流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git学习 的大纲"
+              "title": "测试流程 的大纲"
             }
           },
           {
@@ -263,10 +264,11 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "4f7a72559e0aa505",
+  "active": "098215eb9b02c4ad",
   "lastOpenFiles": [
-    "代码学习/代码规范.md",
     "代码学习/git学习.md",
+    "代码学习/测试流程.md",
+    "代码学习/代码规范.md",
     "Pasted image 20250402221900.png",
     "Pasted image 20250402221053.png",
     "Pasted image 20250402094637.png",
